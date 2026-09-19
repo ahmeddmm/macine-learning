@@ -1,0 +1,11 @@
+.venv/
+_pycache_/
+*.pyc
+
+mlruns/
+mlflow.db
+mlruns.db
+
+.ipynb_checkpoints/
+
+*.png
